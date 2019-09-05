@@ -2,7 +2,8 @@
 Standalone app converting a pdf into a ready to print "poti", traditional tibetan volumes.
 
 ## Install
-Double-click or run `install.py`.
+1. Install the latest Python version, with the "Add to path" option selected. ![image](https://user-images.githubusercontent.com/28945342/64322585-6c27de00-cff5-11e9-996b-e3ee71619ecb.png)
+2. Double-click on `install.py`. 
 
 ## Using PotiMaker
 Double-click or run `poti_maker.pyw`.
